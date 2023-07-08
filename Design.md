@@ -4,18 +4,18 @@ Designing a Progressive Web App (PWA) involves several aspects, including user e
 
 To create intuitive and seamless journey for users, ensuring that they can easily navigate and interact with the app. Here are some key considerations for designing PWA: 
 
+## Table of Contents
+1. [Push notification](#Push-notification)
+2. [Offline support](#Offline-support)
+3. [Splash screen](#Splash-screen)
+4. [Add to home screen](#Add-to-home-screen) 
+5. [Ask users for permissinons](#Ask-users-for-permissinons)
 
-![](https://hackmd.io/_uploads/r1HQmp8Fh.png)
-1. [Push notification](### Push notification)
-2. [Offline support](### Offline support)
-3. [Splash screen](###Splash screen)
-4. [Add to home screen](###Add to home screen) 
-5. [Ask users for permissinons](### Ask users for permissinons)
 
-### Push notification
+## Push notification
 Designing push notifications in a Progressive Web App (PWA) involves creating a user experience that effectively engages users, delivers relevant and timely information, and respects user preferences.
 
-#### Examples
+### Examples
 <p align="center">
   <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xF_Qx7V2zBt1zgGEtUj6mQ.jpeg" width=650>
 </p>
@@ -37,12 +37,12 @@ Designing push notifications in a Progressive Web App (PWA) involves creating a 
 
 
 
-### Offline support
+## Offline support
 Designing offline support in a Progressive Web App (PWA) involves creating a user experience that seamlessly handles situations where users have limited or no internet connectivity. Communicate to users when they are offline. Provide a clear visual indicator or message that notifies them about the loss of internet connectivity. 
 
 users should be provided  with a reliable and uninterrupted experience, allowing them to continue using essential features and accessing previously loaded content even when they have limited or no internet connectivity.
 
-#### Examples
+### Examples
 
 <p align="center">
   <img src ="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*XCYl2p0QTDMu1j4uCbH-rw.png " width=300>
@@ -52,10 +52,10 @@ users should be provided  with a reliable and uninterrupted experience, allowing
 
 
 
-### Splash screen
+## Splash screen
 A splash screen in a Progressive Web App (PWA) is a screen that is displayed to users when they launch the app before the app's content is fully loaded. It serves as a visual placeholder or loading indicator to provide feedback to users that the app is initializing and to create a smooth transition from launching the app to displaying its content.
 
-#### Examples
+### Examples
 <p align="center">
   <img src = "https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2018/02/spoify-soundcloud-splash-screens-examples-justinmind.png.webp" width=200>
       <img src = "https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2018/02/twitter-facebook-splash-screens-examples-justinmind.png.webp" width=200>
@@ -67,11 +67,11 @@ A splash screen in a Progressive Web App (PWA) is a screen that is displayed to 
 
 ---
 
-### Add to home screen
+## Add to home screen
 By designing a user-friendly and informative "Add to Home Screen" experience, you can encourage more users to install the PWA on their home screen, providing them with easy access to the app and enhancing their engagement and usability.
 
 
-#### Examples
+### Examples
 
 <p align="center">
   <img src ="https://miro.medium.com/v2/resize:fit:668/format:webp/1*T7tbFd5G53jh9cO_NpCI0Q.png " width=300>
@@ -85,13 +85,13 @@ By designing a user-friendly and informative "Add to Home Screen" experience, yo
 </p>
 
 [Image Source](https://klizos.com/pwa-vs-native-app-a-detailed-comparative-guide/)
-### Ask users for permissinons
+## Ask users for permissinons
 When designing the permission request experience in a Progressive Web App (PWA) UX, it's important to consider user privacy, transparency, and providing clear explanations of why permissions are needed.
 
 Allow users to opt out or change their permissions easily, and ensure that the app functions smoothly even if certain permissions are denied.
 
 
-#### Examples
+### Examples
 <p align="center">
   <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*S6_10X0PzJQZPNEAXnY3EA.jpeg" width=650>
 </p>
