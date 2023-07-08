@@ -15,7 +15,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Why you should impelment PWA in your application](#WhyPWA)
+- [Why you should impelment PWA in your application](#Why-you-should-implement-PWA-in-your-application)
 - [Design](#Design)
 - [Development](#Development)
 - [Acknowledgments](#acknowledgments)
@@ -76,23 +76,6 @@ There are many benefits of implementing a Progressive Web App (PWA) in your appl
 **Conclusion**
 
  Overall, PWAs offer enhanced user experiences, improved performance, increased reach, and cost-effectiveness compared to traditional web applications and even some native apps. They bridge the gap between web and app experiences, providing a compelling option for businesses and developers seeking to engage users across various devices and connectivity scenarios.
-
-
-
- ## Design
-Designing a Progressive Web App (PWA) involves several aspects, including user experience, visual design, and technical considerations.
-
-To create intuitive and seamless journey for users, ensuring that they can easily navigate and interact with the app. Here are some key considerations for designing PWA: 
-
-1. Updates
-2. Push notification
-3. Offline support
-4. Splash screen
-5. Add to home screen 
-6. Ask users for permissinons
- 
- 
-
 
 ---
 
