@@ -68,6 +68,7 @@ There are many benefits of implementing a Progressive Web App (PWA) in your appl
 * Cost-Effectiveness: Developing and maintaining separate applications for different platforms (such as iOS and Android) can be costly and time-consuming. With PWAs, developers can build a single application that works across multiple platforms, reducing development and maintenance efforts. This cost-effectiveness makes PWAs an attractive option for businesses with limited resources or those targeting a wide range of devices.
 
 
+[Source](https://ionic.io/resources/articles/what-is-a-progressive-web-app-and-why-you-need-one)
 
 
 ---
@@ -78,7 +79,17 @@ There are many benefits of implementing a Progressive Web App (PWA) in your appl
 
 
 
- 
+ ## Design
+Designing a Progressive Web App (PWA) involves several aspects, including user experience, visual design, and technical considerations.
+
+To create intuitive and seamless journey for users, ensuring that they can easily navigate and interact with the app. Here are some key considerations for designing PWA: 
+
+1. Updates
+2. Push notification
+3. Offline support
+4. Splash screen
+5. Add to home screen 
+6. Ask users for permissinons
  
  
 
